@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am a Web Developer
-Java Enthusiast
+Web Developer ||  Java Enthusiast
 
 <!--
 **sosenkkk/sosenkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
